@@ -57,6 +57,9 @@ a {
 #bild3{
   background-image: url("../bilder/palmer.jpg");
 }
+#bild4{
+  background-image: url("../bilder/palm.jpg");
+}
 
 .scroll-box{
   height:100px;
